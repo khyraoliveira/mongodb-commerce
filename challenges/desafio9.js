@@ -6,4 +6,4 @@ db.produtos.find({
     quantidade: { $lt: 500 },
     },
   } },
-   { nome: 1 },);
+   { nome: 1 });
