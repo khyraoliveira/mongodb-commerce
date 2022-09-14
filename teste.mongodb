@@ -1,1 +1,2 @@
+use('produtos')
 db.produtos.count();
