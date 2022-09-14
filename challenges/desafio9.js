@@ -3,8 +3,7 @@ db.produtos.find({
   {
     $elemMatch: { 
     tipo: "calorias",
-    quantidade: { $lt: 500 }
+    quantidade: { $lt: 500 },
     },
   } },
-   { nome: 1 },
-);
+   { nome: 1 },);
