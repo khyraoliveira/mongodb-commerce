@@ -5,7 +5,7 @@ No **MongoDB Commerce** trabalhei com o banco de dados commerce, que contém dad
 
 ## Stacks utilizadas
 - Scripts do banco de dados NoSQL - MongoDB;
-- Docker;
+- Docker.
 
 ## Entre em contato
 <a href="https://www.linkedin.com/in/khyradeoliveira">
